@@ -2,7 +2,7 @@ blank_issues_enabled: false
 contact_links:
   - name: JL Christian
     url: https://github.com/adityatelange/hugo-PaperMod/discussions
-    about: Fine
+    about: Fine Artist
 params:
   profileMode:
     enabled: true
