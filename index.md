@@ -7,11 +7,11 @@
 <br>
 <br>
 
-<h2 align=center>JL Christian | <a href="https://adityatelange.github.io/hugo-PaperMod/" rel="nofollow">Fine Artist</a></h1>
+<h2 align =center>JL Christian | <a href="https://adityatelange.github.io/hugo-PaperMod/" rel="nofollow">Fine Artist</a></h1>
 
 
 <br>
-<h4 align=center> <a href=""https://seiminomore.github.io/jlc-autobio/jlc-autobio.html" rel="nofollow">Autobio</a> - <a href=""https://adityatelange.github.io/hugo-PaperMod/" rel="nofollow">Artworks Codex</a> - <a href=""https://adityatelange.github.io/hugo-PaperMod/" rel="nofollow">Contacts</a> </h4>
+<h4 align =center> <a href=""https://seiminomore.github.io/jlc-autobio/jlc-autobio.html" rel="nofollow">Autobio</a> - <a href=""https://adityatelange.github.io/hugo-PaperMod/" rel="nofollow">Artworks Codex</a> - <a href=""https://adityatelange.github.io/hugo-PaperMod/" rel="nofollow"> Contacts </a> </h4>
 <br>
 
 
