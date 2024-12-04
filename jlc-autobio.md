@@ -32,6 +32,7 @@ Art is how I leave my mark, how I carry forward what my father started, and how 
 --
 
 Should you have any inquiries regarding the artwork or wish to connect with the artist, please don’t hesitate to use the contact information provided below.
+
 <br>
 
 ### Contact Infomation
