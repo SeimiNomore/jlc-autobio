@@ -7,7 +7,7 @@
 <br>
 <br>
 
-<h2 align =center>JL Christian | <a href="https://adityatelange.github.io/hugo-PaperMod/" rel="nofollow">Fine Artist</a></h1>
+<h2 align =center>JL Christian | <a href="https://adityatelange.github.io/hugo-PaperMod/" rel="nofollow">Fine Artist</a></h2>
 
 
 <br>
