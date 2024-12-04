@@ -15,13 +15,6 @@
 <br>
 
 
-
-
-
-<br>
-<br> 
-<br>
-<br>
 <br>
 <br>
 <br>
@@ -41,3 +34,6 @@ Should you wish to delve deeper into the narratives behind the pieces or engage 
 
 Thank you for visiting—may your journey through this collection be as inspiring as the creations themselves.
 
+<br>
+<br>
+<br>
