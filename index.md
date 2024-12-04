@@ -13,21 +13,9 @@
 <br>
 <h4 align =center> <a href=""https://seiminomore.github.io/jlc-autobio/jlc-autobio.md" rel="nofollow">Autobio</a> - <a href=""https://adityatelange.github.io/" rel="nofollow">Artworks Codex</a> - <a href=""https://adityatelange.github.io/" rel="nofollow"> Contacts </a> </h4>
 <br>
-
-
-
-
-
-<br>
 <br> 
 <br>
 <br>
-<br>
-<br>
-<br>
-
-
-
 
 
 Welcome,  
@@ -41,3 +29,7 @@ This space has been thoughtfully designed to connect art enthusiasts, collectors
 Should you wish to delve deeper into the narratives behind the pieces or engage with the artist personally, I remain at your service. Kindly reach out via the provided contact information, and I will ensure your inquiries are met with the utmost attentiveness.  
 
 Thank you for visiting—may your journey through this collection be as inspiring as the creations themselves.
+
+<br>
+<br>
+<br>
